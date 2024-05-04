@@ -38,4 +38,4 @@ To get started with the **Update Solution Images** solution repository, follow t
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](update_solution_images.png)  <br>
+    ## Deliverables or Figures![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](update_solution_images.png)  <br>
