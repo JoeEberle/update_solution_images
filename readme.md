@@ -10,7 +10,7 @@ Provide a set of images designed to brand and represent each unique solution.
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
