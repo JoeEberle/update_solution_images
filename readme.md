@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Update Solution Images - Provide a set of images designed to brand and represent each unique solution.
 Provide a set of images designed to brand and represent each unique solution.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Update Solution Images** - an example for your project
 Provide a set of images designed to brand and represent each unique solution.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
