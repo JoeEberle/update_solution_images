@@ -39,11 +39,8 @@ To get started with the **Update Solution Images** solution repository, follow t
  ![additional_image](update_solution_images.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
