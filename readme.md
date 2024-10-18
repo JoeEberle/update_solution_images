@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Update Solution Images - Provide a set of images designed to brand and represent each unique solution.![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Update Solution Images 
+    ## Provide a set of images designed to brand and represent each unique solution.
+    ![Image image_filename](code.png)
 Welcome to the solution **Update Solution Images** - an example for your projects
 
 Provide a set of images designed to brand and represent each unique solution.
@@ -12,12 +15,15 @@ To get started with the **Update Solution Images** solution repository, follow t
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
