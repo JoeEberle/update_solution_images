@@ -2,7 +2,7 @@
 Welcome to the solution **Update Solution Images** - an example for your projects
 
 Provide a set of images designed to brand and represent each unique solution.
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
